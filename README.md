@@ -6,8 +6,8 @@ Stargazing is a Python application that allows users to discover night sky event
 ---
 
 ## Author 
-Author: ch4rgeb0lt 
-Contact: alesjaa.agafonova@gmail.com
+- Author: ch4rgeb0lt 
+- Contact: alesjaa.agafonova@gmail.com
 
 ---
 
