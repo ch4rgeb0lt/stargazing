@@ -20,8 +20,9 @@ Stargazing is a Python application that allows users to discover night sky event
 ## Build Instructions
 1) Clone the repository to your local machine
 2) Navigate to the project folder
-3) Install dependencies using pip
-4) Ensure the following files and folders are present:
+3) Install dependencies using pip:
+   pip install customtkinter, pywinstyles, astral, geopy
+5) Ensure the following files and folders are present:
     main.py, user.py, location.py, stargazing.py, database.py
     images/ folder with GIFs and icons
     database/ folder (the program will create users.json if it does not exist)
